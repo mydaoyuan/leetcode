@@ -1,3 +1,12 @@
+# 问题
+
+Find the contiguous subarray within an array (containing at least one number) which has the largest sum.
+
+For example, given the array `[-2,1,-3,4,-1,2,1,-5,4]`,
+the contiguous subarray `[4,-1,2,1]` has the largest `sum = 6`.
+
+
+
 ## 动态规划定义
 动态规划（英语：Dynamic programming，简称DP）是一种在数学、管理科学、计算机科学、经济学和生物信息学中使用的，通过把原问题分解为相对简单的子问题的方式求解复杂问题的方法。
 
